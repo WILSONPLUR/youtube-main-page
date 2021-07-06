@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAA;;AACAA,OAAO,CAACC,GAAR,CAAY,oBAAZ","file":"src.53c99472.js","sourceRoot":"..\\src","sourcesContent":["import \"./styles.scss\";\nconsole.log(\"welcome to youtube\");\n"]}
